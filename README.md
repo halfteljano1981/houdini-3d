@@ -1,4 +1,4 @@
-# 🌀 Houdini  
+# 🌀 Houdini 3D
 **Procedural 3D Animation and VFX Software**
 
 **Houdini** is a node-based 3D animation and visual effects software used in film, television, and game development.  
